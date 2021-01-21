@@ -1,4 +1,6 @@
-Create a function that reverses a string:
+# Arrays
+
+### Create a function that reverses a string:
 
 My first solution
 ```
@@ -52,7 +54,7 @@ Solution 3:
 const reverse3 = str => [...str].reverse().join('');
 ```
 
-Given 2 arrays that are sorted, merge the arrays in sorted order.
+### Given 2 arrays that are sorted, merge the arrays in sorted order.
 
 My first solution:
 ```
