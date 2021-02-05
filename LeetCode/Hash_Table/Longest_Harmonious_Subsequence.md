@@ -99,3 +99,5 @@ findLHS([0,3,1,3,3,3,0,1,0,2,0,3,1,3,-3,2,0,3,1,2,2,-3,2,2,3,3])
 ```
 
 [Found the algo here for O(n) implementation](https://medium.com/@harshvardhansingh_67029/longest-harmonious-subsequence-a9933b6c78dd)
+
+[Generating all possible Subsequences using Recursion](https://www.geeksforgeeks.org/generating-all-possible-subsequences-using-recursion/)
