@@ -84,3 +84,5 @@ var copyRandomList = function(head) {
     return newHead
 };
 ```
+
+[Implementation explanation](https://www.programcreek.com/2012/12/leetcode-copy-list-with-random-pointer/)
