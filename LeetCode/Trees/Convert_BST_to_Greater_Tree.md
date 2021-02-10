@@ -59,3 +59,4 @@ var convertBST = function(root) {
 };
 ```
 
+[Explanation and Implementation](https://www.geeksforgeeks.org/convert-bst-to-a-binary-tree/)
