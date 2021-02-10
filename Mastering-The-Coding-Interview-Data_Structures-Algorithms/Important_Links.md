@@ -1,0 +1,6 @@
+1. [What is stability in sorting algorithms and why is it important?](https://stackoverflow.com/questions/1517793/what-is-stability-in-sorting-algorithms-and-why-is-it-important)
+2. [Tail call optimization in ECMAScript 6](https://2ality.com/2015/06/tail-call-optimization.html)
+3. [The Little AVL Tree That Could](https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7)
+4. [Painting Nodes Black With Red-Black Trees](https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5)
+5. [Var vs Let vs Const](https://dev.to/sethusenthil/var-vs-let-vs-const-1cgc)
+6. [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight)
