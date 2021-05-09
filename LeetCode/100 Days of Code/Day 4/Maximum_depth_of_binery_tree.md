@@ -5,7 +5,7 @@
 ### Solution 1
 
 ```
-function getMaxLevel(node, finalLevel, level){
+function getMaxLevel(node, list, level){
     if(!node.left && !node.right){
         list.push(level)
     }
