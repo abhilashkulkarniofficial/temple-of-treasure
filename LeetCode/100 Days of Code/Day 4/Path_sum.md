@@ -35,3 +35,34 @@ var hasPathSum = function(root, targetSum) {
     return sumList.includes(targetSum)
 };
 ```
+
+### Solution 2
+
+Approach 1 without using list.
+
+```
+function traverse(node, targetSum, sum){
+    if(!node.left && !node.right){
+        if(targetSum === (sum + node.val)) return true
+        else return false
+        
+    }
+    
+    let left = false
+    let right = false
+    if(node.left){
+        left = traverse(node.left, targetSum, sum + node.val)
+    }
+    
+    if(node.right){
+        right = traverse(node.right, targetSum, sum + node.val)
+    }
+    
+    return left || right
+}
+
+var hasPathSum = function(root, targetSum) {
+    if(!root) return false
+    return traverse(root, targetSum, 0)
+};
+```
