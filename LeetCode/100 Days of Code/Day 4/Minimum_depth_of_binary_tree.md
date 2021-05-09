@@ -37,3 +37,32 @@ var minDepth = function(root) {
     return Math.min.apply(Math, levelList);
 };
 ```
+
+### Solution 2
+
+Better approach without using list:
+
+```
+function getAllLevels(node){
+    if(!node.left && !node.right){
+        return 1
+    }
+    
+    let minLevel = 9999
+    
+    if(node.left){
+        minLevel = Math.min.apply(Math, [minLevel, getAllLevels(node.left)])
+    }
+    
+    if(node.right){
+        minLevel = Math.min.apply(Math, [minLevel, getAllLevels(node.right)])
+    }
+    
+    return minLevel + 1
+}
+
+var minDepth = function(root) {
+    if(!root) return 0
+    return getAllLevels(root)
+};
+```
