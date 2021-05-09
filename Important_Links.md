@@ -1,6 +1,6 @@
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 2. [Papers we love](https://github.com/papers-we-love/papers-we-love)
-3. [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle#:~:text=The%20single%2Dresponsibility%20principle%20(SRP,functionality%2C%20which%20it%20should%20encapsulate.)
+3. [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle#:~:text=The%20single%2Dresponsibility%20principle%20(SRP,functionality%2C%20which%20it%20should%20encapsulate)
 
 
 ## Cracking coding rounds
