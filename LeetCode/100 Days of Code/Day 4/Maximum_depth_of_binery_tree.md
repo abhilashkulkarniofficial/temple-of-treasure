@@ -28,8 +28,6 @@ var maxDepth = function(root) {
 };
 ```
 
-Optimized solution coming soon.
-
 ### Solution 2
 
 Better looking approach. Uses more memory though.
@@ -58,3 +56,26 @@ var maxDepth = function(root) {
     return getMaxLevel(root)
 };
 ```
+
+### Solution 3
+
+Completely Optimized
+
+```
+function getMaxLevel(node){
+    if(!node){
+        return 0
+    }
+    
+    return Math.max.apply(Math, [
+        getMaxLevel(node.left),
+        getMaxLevel(node.right)
+    ]) + 1
+    
+}
+
+var maxDepth = function(root) {
+    return getMaxLevel(root)
+};
+```
+
