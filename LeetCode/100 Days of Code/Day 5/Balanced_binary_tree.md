@@ -4,7 +4,7 @@
 
 ### Solution 1
 
-Very crude solution. Approach is based on checking if the right subtree and the left subtree are balanced at every level.
+Very crude solution but it is completely optimized. Approach is based on checking if the right subtree and the left subtree are balanced at every level.
 
 ```
 function traverse(node){
@@ -35,4 +35,19 @@ var isBalanced = function(root) {
 };
 ```
 
-Working on a optimized solution.
+### Solution 2
+
+Better looking solution
+
+```
+function height(node){
+    if(!node) return -1
+    return 1 + Math.max.apply(Math,[height(node.left), height(node.right)])
+}
+
+var isBalanced = function(root) {
+    if(!root) return true
+    return Math.abs(height(root.left) - height(root.right)) < 2 && 
+        isBalanced(root.left) && isBalanced(root.right)
+};
+```
