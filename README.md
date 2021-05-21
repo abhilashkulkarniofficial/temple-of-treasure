@@ -31,8 +31,10 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 3. [ZTM Job Board](https://alumni-board.netlify.app/)
 
 
-### Resumes building
+### Resume and Profile building
 1. [CakeResume](https://www.cakeresume.com/Engineering-resume-samples)
+2. [How to use LinkedIn as a developer](https://www.youtube.com/watch?v=SG5Sb5WTV_g&list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
+
 
 
 ### Full Stack Development
@@ -40,6 +42,7 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 2. [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
 3. [HTML Emoji Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 4. [Deploy a Vue.js App to Heroku](https://dev.to/marwan01/deploy-a-vue-js-app-to-heroku-30m)
+5. [Lottie Animations](https://lottiefiles.com/)
 
 ### University Courses:
 1. [CS 5010: Program Design Paradigms](https://course.ccs.neu.edu/cs5010f18/index.html)
