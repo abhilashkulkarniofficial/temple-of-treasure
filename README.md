@@ -18,6 +18,8 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 2. [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 3. [What is the best strategy to solve LeetCode problems?](https://www.quora.com/What-is-the-best-strategy-to-solve-LeetCode-problems)
 4. [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
+5. [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+6. [Blind 75 LeetCode Questions](https://leetcode.com/discuss/interview-question/460599/Blind-75-LeetCode-Questions)
 
 
 ### Open Source 
