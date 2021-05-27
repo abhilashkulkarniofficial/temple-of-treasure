@@ -20,6 +20,7 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 4. [Top Patterns to Conquer the Technical Coding Interview](https://algo.monster/problems/stats)
 5. [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 6. [Blind 75 LeetCode Questions](https://leetcode.com/discuss/interview-question/460599/Blind-75-LeetCode-Questions)
+7. [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)
 
 
 ### Open Source 
