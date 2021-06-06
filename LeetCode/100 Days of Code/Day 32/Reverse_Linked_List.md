@@ -16,3 +16,6 @@ var reverseList = function(head) {
     return dummy
 };
 ```
+
+Time complexity : O(n)
+Space complexity : O(1)
