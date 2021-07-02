@@ -30,3 +30,37 @@ var deleteDuplicates = function(head) {
     return dummy.next
 };
 ```
+
+TC: O(2n)
+SC: O(2n)
+
+### Solution 2
+
+```
+var deleteDuplicates = function(head) {
+    if(!head) return head
+    let dummy = new ListNode(0, null)
+    dummy.next = head
+    let slow = dummy
+    let fast = dummy.next
+    while(fast){
+        let temp = fast
+        fast = fast.next
+        while(fast && fast.val===temp.val){
+            fast = fast.next
+        }
+        if(temp.next === fast && (!fast || fast.val!==temp.val)){
+            slow.next = temp
+            slow = temp
+        }else if(temp.next && !fast){
+            slow.next = fast
+        }
+        
+    }
+    if(slow===dummy) return null
+    return dummy.next
+};
+```
+
+TC: O(n)
+SC: O(1)
