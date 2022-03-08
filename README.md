@@ -40,12 +40,13 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 
 
 
-### Full Stack Development
+### Full Stack Webb Development
 1. [Deploy Github pages like a pro](https://dev.to/rolanddoda/deploy-to-github-pages-like-a-pro-with-github-actions-4hdg)
 2. [Git and Github - must know commands to make your first commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
 3. [HTML Emoji Reference](https://www.w3schools.com/charsets/ref_emoji.asp)
 4. [Deploy a Vue.js App to Heroku](https://dev.to/marwan01/deploy-a-vue-js-app-to-heroku-30m)
 5. [Lottie Animations](https://lottiefiles.com/)
+6. [HTML Symbol, Entities, Characters and Code](https://www.toptal.com/designers/htmlarrows/)
 
 ### University Courses:
 1. [CS 5010: Program Design Paradigms](https://course.ccs.neu.edu/cs5010f18/index.html)
