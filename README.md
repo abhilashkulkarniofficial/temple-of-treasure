@@ -48,5 +48,9 @@ I'm doing a 100 Days of Code challenge on Leetcode and you can join me. Just go 
 5. [Lottie Animations](https://lottiefiles.com/)
 6. [HTML Symbol, Entities, Characters and Code](https://www.toptal.com/designers/htmlarrows/)
 
+### React.JS
+1. [React Router](https://reactrouter.com/)
+2. [Material UI for React](https://mui.com/)
+
 ### University Courses:
 1. [CS 5010: Program Design Paradigms](https://course.ccs.neu.edu/cs5010f18/index.html)
